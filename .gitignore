@@ -89,3 +89,5 @@ db.sqlite3
 .venv/
 staticfiles
 staticfiles/
+.idea
+.idea/
