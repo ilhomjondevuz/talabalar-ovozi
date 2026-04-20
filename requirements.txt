@@ -1,0 +1,9 @@
+asgiref==3.11.1
+backports-datetime-fromisoformat==2.0.3
+Django==5.2.13
+environs==15.0.1
+marshmallow==4.3.0
+python-dotenv==1.2.2
+sqlparse==0.5.5
+typing_extensions==4.15.0
+whitenoise==6.12.0
